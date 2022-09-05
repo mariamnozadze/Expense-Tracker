@@ -1,5 +1,7 @@
 Expense tracker app, which allows people to keep an accurate record of their expenses.
 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
